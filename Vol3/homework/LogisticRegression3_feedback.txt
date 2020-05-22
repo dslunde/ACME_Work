@@ -1,0 +1,24 @@
+02/04/18 00:06
+
+Digits Dataset (3 points):
+Score += 3
+
+Download/Run Keras (3 points):
+Score += 3
+
+Experiment with Parameters (3 points):
+What different params did you try, and what happened?
+Score += 1
+
+Multiclass on your data (7 points):
+I would like to see you experiment with more parameter sets, but other than that well done
+Score += 6
+
+Code Quality (2 points):
+ Make sure to put code comments throughout
+Score += 1
+
+Total score: 14/18 = 77.78%
+
+-------------------------------------------------------------------------------
+

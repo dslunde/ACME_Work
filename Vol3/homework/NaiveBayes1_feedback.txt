@@ -1,0 +1,19 @@
+02/14/18 00:49
+
+Working Naive Bayes Classifier ((Note: This should be applicable to a general dataset) (5 points):
+Score += 0
+
+Compare to sklearn (you should get the same accuracy) (3 points):
+Score += 0
+
+Code Quality (Comments, docstrings, labeled print statements, etc) (2 points):
+Score += 0
+
+Total score: 0/10 = 0.0%
+
+
+Comments:
+	No submission
+
+-------------------------------------------------------------------------------
+

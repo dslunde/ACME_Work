@@ -1,0 +1,73 @@
+09/24/16 09:47
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+random_walk() failed to handle the KeyboardInterrupt
+keyboard interrupt not caught
+Score += 2
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (25 points):
+Score += 25
+
+Total score: 37/40 = 92.5%
+
+Great job!
+
+
+Comments:
+	lab catch up!
+
+-------------------------------------------------------
+
+09/24/16 09:54
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+random_walk() failed to handle the KeyboardInterrupt
+keyboard interrupt not caught
+Score += 2
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (25 points):
+Score += 25
+
+Total score: 37/40 = 92.5%
+
+Great job!
+
+
+Comments:
+	lab catch up!
+
+-------------------------------------------------------
+
+09/27/16 16:45
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+random_walk() failed to handle the KeyboardInterrupt
+didn't catch keyboard interrupt
+Score += 2
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (25 points):
+line missing
+Score += 23
+
+Total score: 35/40 = 87.5%
+
+-------------------------------------------------------
+

@@ -1,0 +1,47 @@
+09/11/17 14:29
+
+Prob1 (2 points):
+Score += 2
+
+Prob2 (2 points):
+Score += 2
+
+Prob3 (2 points):
+Score += 2
+
+Prob4 (2 points):
+Score += 2
+
+Prob5 (2 points):
+Missing a fixed point
+Score += 1
+
+Total score: 9/10 = 90.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
+09/15/17 11:23
+
+Prob1 (2 points):
+Score += 2
+
+Prob2 (2 points):
+Score += 2
+
+Prob3 (2 points):
+Score += 2
+
+Prob4 (2 points):
+Score += 2
+
+Prob5 (2 points):
+Score += 2
+
+Total score: 10/10 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

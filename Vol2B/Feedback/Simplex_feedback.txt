@@ -1,0 +1,67 @@
+01/20/17 11:46
+
+Error loading simplex.py:
+	No module named simplex
+
+--------------------------------------------------------------------------------
+
+01/24/17 12:23
+
+Error loading simplex.py:
+	No module named simplex
+
+--------------------------------------------------------------------------------
+
+01/24/17 12:26
+
+Error loading simplex.py:
+	No module named simplex
+
+--------------------------------------------------------------------------------
+
+01/27/17 12:32
+
+Error loading simplex.py:
+	No module named simplex
+
+--------------------------------------------------------------------------------
+
+01/31/17 08:47
+
+1-6 (30 points):
+Score += 30
+
+7 (10 points):
+NotImplementedError: Problem 7 Incomplete
+
+Total score: 30/40 = 75.0%
+
+--------------------------------------------------------------------------------
+
+02/01/17 19:01
+
+1-6 (30 points):
+Score += 30
+
+7 (10 points):
+NotImplementedError: Problem 7 Incomplete
+
+Total score: 30/40 = 75.0%
+
+--------------------------------------------------------------------------------
+
+02/02/17 09:18
+
+1-6 (30 points):
+Score += 30
+
+7 (10 points):
+Incorrect maximizer
+	Correct response: 7453.59649123
+	Student response: [ 3384.737]
+Score += 0
+
+Total score: 30/40 = 75.0%
+
+--------------------------------------------------------------------------------
+

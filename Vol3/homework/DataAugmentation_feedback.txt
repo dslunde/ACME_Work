@@ -1,0 +1,17 @@
+02/10/18 12:59
+
+Random Zoom/Rotate/Shift + Demonstrate on Digits (5 points):
+It appears that your augmented images aren't the same as the original ones you meant to change
+Score += 4
+
+Train/Test on Regular and Augmented Data (3 points):
+Score += 3
+
+Code Quality (2 points):
+Need docstring
+Score += 1
+
+Total score: 8/10 = 80.0%
+
+-------------------------------------------------------------------------------
+

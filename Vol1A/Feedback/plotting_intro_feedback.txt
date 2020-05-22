@@ -1,0 +1,67 @@
+09/14/16 21:11
+
+Error loading Darren-Lund/plotting_intro.py:
+	No module named plotting_intro
+
+-------------------------------------------------------
+
+09/19/16 21:16
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Score += 10
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+
+
+Comments:
+	Great
+
+-------------------------------------------------------
+
+09/19/16 21:55
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Score += 10
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+
+
+Comments:
+	Great
+
+-------------------------------------------------------
+

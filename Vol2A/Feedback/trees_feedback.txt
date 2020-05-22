@@ -1,0 +1,120 @@
+10/07/16 12:37
+
+Problem 1 (5 points):
+NameError: global name 'self' is not defined
+
+Problem 2 (15 points):
+Score += 15
+
+Problem 3 (30 points):
+Score += 30
+
+Problem 4 (10 points):
+graphs don't look quite right
+Score += 5
+
+Total score: 50/60 = 83.33%
+
+
+Comments:
+	Good!
+
+-------------------------------------------------------
+
+10/12/16 11:13
+
+Problem 1 (5 points):
+NameError: global name 'self' is not defined
+
+Problem 2 (15 points):
+Score += 15
+
+Problem 3 (30 points):
+Score += 30
+
+Problem 4 (10 points):
+Does not look like the correct plot.
+Score += 5
+
+Total score: 50/60 = 83.33%
+
+
+Comments:
+	good!
+
+-------------------------------------------------------
+
+10/14/16 13:43
+
+Problem 1 (5 points):
+NameError: global name 'self' is not defined
+
+Problem 2 (15 points):
+Score += 15
+
+Problem 3 (30 points):
+Score += 30
+
+Problem 4 (10 points):
+Does not look like the correct plot
+Score += 5
+
+Total score: 50/60 = 83.33%
+
+
+Comments:
+	Good!
+
+-------------------------------------------------------
+
+10/17/16 14:29
+
+Problem 1 (5 points):
+NameError: global name 'self' is not defined
+
+Problem 2 (15 points):
+Score += 15
+
+Problem 3 (30 points):
+Score += 30
+
+Problem 4 (10 points):
+TypeError: 'str' object is not callable
+
+Total score: 45/60 = 75.0%
+
+
+Comments:
+	if you need help go to office hours!
+
+-------------------------------------------------------
+
+10/20/16 09:33
+
+Problem 1 (5 points):
+	recursive_search(x) failed for x in list
+Correct response:
+<lab5.solutions.SinglyLinkedListNode object at 0x105c45390>
+Student response:
+None
+	recursive_search(x) failed for x in list
+Correct response:
+<lab5.solutions.SinglyLinkedListNode object at 0x105c456d0>
+Student response:
+None
+Score += 3
+
+Problem 2 (15 points):
+Score += 15
+
+Problem 3 (30 points):
+Score += 30
+
+Problem 4 (10 points):
+Does not look like correct plot
+Score += 5
+
+Total score: 53/60 = 88.33%
+
+-------------------------------------------------------
+

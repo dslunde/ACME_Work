@@ -1,0 +1,17 @@
+02/01/18 18:17
+
+Digits (5 points):
+Score += 5
+
+Your_Project (11 points):
+Even if you haven't come up with a ranking yet, what is a question where you could come up with to give us an answer and conclusions?
+Score += 4
+
+Code Quality (2 points):
+You need code comments throughout.
+Score += 1
+
+Total score: 10/18 = 55.56%
+
+-------------------------------------------------------------------------------
+

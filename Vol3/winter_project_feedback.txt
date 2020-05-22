@@ -1,0 +1,38 @@
+Lund, Darren
+Predicting March Madness: A Player Based Approach
+
+
+Motivation and Overview (10 Points)
+Score += 10
+
+Data: Quality and Discussion (10 Points)
+Score += 10
+
+Methods: Suitability and Justification (20 Points)
+Score += 20
+
+Analysis: Depth and Quality (20 Points)
+Score += 17
+
+Communication: Quality and Clarity (20 Points)
+Score += 19
+
+Graphics: Effectiveness and Quality (10 Points)
+Score += 9
+
+Impressiveness (10 Points)
+Score += 9
+
+
+TOTAL SCORE: 94/100
+
+Great work!
+
+
+Comments from graders:
+
+Thorough description of the algorithm you created. I think there has to be some way to enhance your to be at least as good or better than other methods. 
+
+"Player Based" should be "Player-based" everywhere. Also beware of the difference between it's and its. Another grammatical errors: "by storing the each game". Bar charts are almost always better when sorted, but since you had two charts labelling them constistently was an okay choice. What do you mean that SVM was good for reducing dimensions? Do you mean SVD or PCA? Of course different years have different best parameters; what you want is something that works pretty well for all years, not super well for one year. You do a good job of justifying why that would be hard though.
+
+SVM increases dimension--not decrease. You should never let the hyperparaemters vary from one season to another, because if you do, you can't predict future results until you know the correct hyperparameters for the season, and you don't know those until after the season is over.

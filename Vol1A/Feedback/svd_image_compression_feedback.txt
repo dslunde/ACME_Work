@@ -1,0 +1,162 @@
+12/01/16 18:54
+
+Error loading Darren-Lund/svd_image_compression.py:
+	No module named svd_image_compression
+
+-------------------------------------------------------
+
+12/06/16 09:01
+
+Problem 1 (10 points):
+SVD approximation function incorrect for U
+	Correct response: [[ 0. -1.  0.]
+ [ 1.  0.  0.]
+ [ 0.  0.  0.]
+ [ 0.  0.  1.]]
+	Student response: [[ 0.         -0.4472136   0.        ]
+ [ 0.33333333  0.          0.        ]
+ [ 0.          0.          0.        ]
+ [ 0.          0.         -0.5       ]]
+SVD approximation function incorrect for s
+	Correct response: [ 3.00000000+0.j  2.23606798+0.j  2.00000000+0.j]
+	Student response: [9.0, 5.0, 4.0]
+SVD approximation function incorrect for v
+	Correct response: [[ 0.          0.          1.          0.          0.        ]
+ [-0.4472136   0.          0.          0.         -0.89442719]
+ [ 0.          1.          0.          0.          0.        ]]
+	Student response: [[ 0.          0.          1.          0.          0.        ]
+ [-0.4472136   0.          0.          0.         -0.89442719]
+ [ 0.         -1.          0.          0.          0.        ]]
+Score += 0
+
+Problem 2 (10 points):
+Second two not correct
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+IndexError: index 10 is out of bounds for axis 0 with size 10
+
+Problem 5 (10 points):
+Score += 10
+
+Total score: 20/40 = 50.0%
+
+-------------------------------------------------------
+
+12/07/16 08:31
+
+Problem 1 (10 points):
+SVD approximation function incorrect for U
+	Correct response: [[ 0. -1.  0.]
+ [ 1.  0.  0.]
+ [ 0.  0.  0.]
+ [ 0.  0.  1.]]
+	Student response: [[ 0. -1.  0.]
+ [ 1.  0.  0.]
+ [ 0.  0.  0.]
+ [ 0.  0. -1.]]
+SVD approximation function incorrect for v
+	Correct response: [[ 0.          0.          1.          0.          0.        ]
+ [-0.4472136   0.          0.          0.         -0.89442719]
+ [ 0.          1.          0.          0.          0.        ]]
+	Student response: [[ 0.          0.          1.          0.          0.        ]
+ [-0.4472136   0.          0.          0.         -0.89442719]
+ [ 0.         -1.          0.          0.          0.        ]]
+Score += 4
+
+Problem 2 (10 points):
+visualize_svd() does not match specifications
+Score += 4
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (10 points):
+Score += 10
+
+Total score: 28/40 = 70.0%
+
+-------------------------------------------------------
+
+12/08/16 12:01
+
+Problem 1 (10 points):
+SVD approximation function incorrect for U
+	Correct response: [[ 0. -1.  0.]
+ [ 1.  0.  0.]
+ [ 0.  0.  0.]
+ [ 0.  0.  1.]]
+	Student response: [[ 0. -1.  0.]
+ [ 1.  0.  0.]
+ [ 0.  0.  0.]
+ [ 0.  0. -1.]]
+SVD approximation function incorrect for v
+	Correct response: [[ 0.          0.          1.          0.          0.        ]
+ [-0.4472136   0.          0.          0.         -0.89442719]
+ [ 0.          1.          0.          0.          0.        ]]
+	Student response: [[ 0.          0.          1.          0.          0.        ]
+ [-0.4472136   0.          0.          0.         -0.89442719]
+ [ 0.         -1.          0.          0.          0.        ]]
+Score += 4
+
+Problem 2 (10 points):
+3 and 4 not right
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (10 points):
+Score += 10
+
+Total score: 29/40 = 72.5%
+
+-------------------------------------------------------
+
+12/15/16 09:42
+
+Problem 1 (10 points):
+SVD approximation function incorrect for U
+	Correct response: [[ 0. -1.  0.]
+ [ 1.  0.  0.]
+ [ 0.  0.  0.]
+ [ 0.  0.  1.]]
+	Student response: [[-0.74535599  0.          0.        ]
+ [ 0.          0.          0.        ]
+ [ 0.          0.          0.        ]
+ [ 0.          0.          1.        ]]
+SVD approximation function incorrect for v
+	Correct response: [[ 0.          0.          1.          0.          0.        ]
+ [-0.4472136   0.          0.          0.         -0.89442719]
+ [ 0.          1.          0.          0.          0.        ]]
+	Student response: [[-0.4472136   0.          0.          0.         -0.89442719]
+ [ 0.          0.          0.          1.          0.        ]
+ [ 0.          1.          0.          0.          0.        ]]
+Score += 4
+
+Problem 2 (10 points):
+visualize_svd() does not match specifications
+Score += 3
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (10 points):
+Score += 10
+
+Total score: 27/40 = 67.5%
+
+-------------------------------------------------------
+

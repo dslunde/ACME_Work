@@ -1,0 +1,79 @@
+01/24/17 16:12ufunc 'isfinite' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+
+--------------------------------------------------------------------------------
+
+01/24/17 21:38
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 6 (10 points):
+Score += 10
+
+Problem 7 (10 points):
+SympifyError: Sympify of expression 'could not parse u'Autograd FloatNode with value 1.0 and 1 tape(s)'' failed, because of exception being raised:
+SyntaxError: invalid syntax (<string>, line 1)
+
+Total score: 30/40 = 75.0%
+
+--------------------------------------------------------------------------------
+
+01/30/17 17:40
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 6 (10 points):
+Score += 10
+
+Problem 7 (10 points):
+SympifyError: Sympify of expression 'could not parse u'Autograd FloatNode with value 1.0 and 1 tape(s)'' failed, because of exception being raised:
+SyntaxError: invalid syntax (<string>, line 1)
+
+Total score: 30/40 = 75.0%
+
+--------------------------------------------------------------------------------
+
+01/31/17 09:14
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 6 (10 points):
+Score += 10
+
+Problem 7 (10 points):
+SympifyError: Sympify of expression 'could not parse u'Autograd FloatNode with value 1.0 and 1 tape(s)'' failed, because of exception being raised:
+SyntaxError: invalid syntax (<string>, line 1)
+
+Total score: 30/40 = 75.0%
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,266 @@
+09/08/16 21:40
+
+Error loading Darren-Lund/numpy_intro.py:
+	expected an indented block (numpy_intro.py, line 102)
+
+-------------------------------------------------------
+
+09/08/16 22:03
+
+Error loading Darren-Lund/numpy_intro.py:
+	expected an indented block (numpy_intro.py, line 102)
+
+-------------------------------------------------------
+
+09/14/16 21:02
+
+Error loading Darren-Lund/numpy_intro.py:
+	expected an indented block (numpy_intro.py, line 102)
+
+-------------------------------------------------------
+
+09/15/16 09:04
+
+Error loading Darren-Lund/numpy_intro.py:
+	expected an indented block (numpy_intro.py, line 102)
+
+-------------------------------------------------------
+
+09/15/16 09:16
+
+Problem 1 (5 points):
+prob1() failed
+	Correct response: [[ 37  14 -32 -10]
+ [-54  -7  58  65]]
+	Student response: [[ 37  14 -32 -10]
+ [108 -61  22  11]]
+Score += 0
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+TypeError: 'numpy.ndarray' object is not callable
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (5 points):
+TypeError: 'numpy.ndarray' object is not callable
+
+Problem 7 (10 points):
+ValueError: descr is not a valid dtype descriptor: '<i8'
+
+Total score: 15/40 = 37.5%
+
+
+Comments:
+	REGRADE2
+
+-------------------------------------------------------
+
+09/15/16 09:21
+
+Problem 1 (5 points):
+prob1() failed
+	Correct response: [[ 37  14 -32 -10]
+ [-54  -7  58  65]]
+	Student response: [[ 37  14 -32 -10]
+ [108 -61  22  11]]
+Score += 0
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+TypeError: 'numpy.ndarray' object is not callable
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (5 points):
+TypeError: 'numpy.ndarray' object is not callable
+
+Problem 7 (10 points):
+ValueError: descr is not a valid dtype descriptor: '<i8'
+
+Total score: 15/40 = 37.5%
+
+
+Comments:
+	REGRADE3
+
+-------------------------------------------------------
+
+09/15/16 09:22
+
+Problem 1 (5 points):
+prob1() failed
+	Correct response: [[ 37  14 -32 -10]
+ [-54  -7  58  65]]
+	Student response: [[ 37  14 -32 -10]
+ [108 -61  22  11]]
+Score += 0
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (5 points):
+Score += 5
+
+Problem 7 (10 points):
+Score += 10
+
+Total score: 35/40 = 87.5%
+
+-------------------------------------------------------
+
+09/15/16 09:27
+
+Problem 1 (5 points):
+prob1() failed
+	Correct response: [[ 37  14 -32 -10]
+ [-54  -7  58  65]]
+	Student response: [[ 37  14 -32 -10]
+ [108 -61  22  11]]
+Score += 0
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (5 points):
+Score += 5
+
+Problem 7 (10 points):
+Score += 10
+
+Total score: 35/40 = 87.5%
+
+
+Comments:
+	Close
+
+-------------------------------------------------------
+
+09/19/16 20:35
+
+Problem 1 (5 points):
+prob1() failed
+	Correct response: [[ 37  14 -32 -10]
+ [-54  -7  58  65]]
+	Student response: [[ 37  14 -32 -10]
+ [108 -61  22  11]]
+Score += 0
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (5 points):
+Score += 5
+
+Problem 7 (10 points):
+Score += 10
+
+Total score: 35/40 = 87.5%
+
+-------------------------------------------------------
+
+09/22/16 11:52
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (5 points):
+Score += 5
+
+Problem 7 (10 points):
+Score += 10
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+
+
+Comments:
+	Great job
+
+-------------------------------------------------------
+
+09/22/16 17:24
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (5 points):
+Score += 5
+
+Problem 7 (10 points):
+Score += 10
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+
+
+Comments:
+	Great job!
+
+-------------------------------------------------------
+

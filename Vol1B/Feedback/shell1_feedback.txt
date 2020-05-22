@@ -1,0 +1,9 @@
+Points for correctly organized directory: 25/25
+Feedback: 
+
+Points for correct sortedwords.txt file: 10/10
+Feedback: 
+
+Points for correct first_vim file: 5/5
+Feedback: 
+

@@ -1,0 +1,24 @@
+11/29/17 14:58
+
+Problem 1 (3 points):
+Your plots are all different scales and thus aren't easily to interpret.
+Score += 2
+
+Problem 2 (3 points):
+Score += 3
+
+Problem 3 (3 points):
+Score += 3
+
+Problem 4 (3 points):
+Score += 3
+
+Problem 5 (3 points):
+Score += 3
+
+Total score: 14/15 = 93.33%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

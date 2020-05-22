@@ -1,0 +1,42 @@
+02/26/18 18:51
+
+Problem 1 (2 points):
+Score += 0
+
+Problem 2 (2 points):
+Score += 0
+
+Problem 3 (3 points):
+Score += 0
+
+Problem 4 (3 points):
+Score += 0
+
+Total score: 0/10 = 0.0%
+
+
+Comments:
+	no code
+
+-------------------------------------------------------------------------------
+
+03/05/18 17:49
+
+Problem 1 (2 points):
+Score += 2
+
+Problem 2 (2 points):
+Score += 2
+
+Problem 3 (3 points):
+Score += 3
+
+Problem 4 (3 points):
+Score += 3
+
+Total score: 10/10 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

@@ -1,0 +1,17 @@
+12/17/17 00:09
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Total score: 15/15 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

@@ -1,0 +1,59 @@
+01/29/18 20:07
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (20 points):
+Score += 20
+
+Code Quality (5 points):
+Don't forget to comment your code! Also, please DELETE the 'raise NotImplementedError's, don't just comment them out (that would be confusing for an outsider reading your code).
+Score += 2
+
+Total score: 47/50 = 94.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
+02/02/18 09:13
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+I didn't catch this last time, but you're double counting all of the site interactions. Your accept/reject scheme still works, which is why you get the right pictures in the end, but H(sigma) is way off.
+Score += 2
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (20 points):
+Score += 20
+
+Code Quality (5 points):
+You don't have a single comment anywhere! Also, PLEASE delete the "raise NotImplementedError"s that come with the spec. Don't just comment them out (that will be confusing for others who read your code).
+Score += 2
+
+Total score: 44/50 = 88.0%
+
+-------------------------------------------------------------------------------
+

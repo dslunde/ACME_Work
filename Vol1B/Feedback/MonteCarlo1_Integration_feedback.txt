@@ -1,0 +1,89 @@
+02/20/17 23:16
+
+Problem 1 (5 points):
+ answer slightly off with 10^5 points
+Score += 4
+
+Problem 2 (10 points):
+answer slightly further off than it should be
+Score += 9
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (10 points):
+NotImplementedError: Problem 5 Incomplete
+
+Total score: 28/40 = 70.0%
+
+--------------------------------------------------------------------------------
+
+02/23/17 17:39
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (10 points):
+NotImplementedError: Problem 5 Incomplete
+
+Total score: 30/40 = 75.0%
+
+--------------------------------------------------------------------------------
+
+02/27/17 11:35
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (10 points):
+NotImplementedError: Problem 5 Incomplete
+
+Total score: 30/40 = 75.0%
+
+--------------------------------------------------------------------------------
+
+03/02/17 10:14
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (10 points):
+no legend
+Score += 8
+
+Total score: 38/40 = 95.0%
+
+Great job!
+
+--------------------------------------------------------------------------------
+

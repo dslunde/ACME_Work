@@ -1,0 +1,35 @@
+11/01/16 09:05
+
+Error loading Darren-Lund/qr_decomposition.py:
+	No module named qr_decomposition
+
+-------------------------------------------------------
+
+11/11/16 08:18
+
+Error loading Darren-Lund/qr_decomposition.py:
+	No module named qr_decomposition
+
+-------------------------------------------------------
+
+11/15/16 09:50
+
+Error loading Darren-Lund/qr_decomposition.py:
+	No module named qr_decomposition
+
+-------------------------------------------------------
+
+11/17/16 11:47
+
+Error loading Darren-Lund/qr_decomposition.py:
+	No module named qr_decomposition
+
+-------------------------------------------------------
+
+11/28/16 17:10
+
+Error loading Darren-Lund/qr_decomposition.py:
+	No module named qr_decomposition
+
+-------------------------------------------------------
+

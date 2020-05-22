@@ -1,0 +1,135 @@
+01/13/17 21:56
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Incorrect optimial value
+	Correct response: 9.93078490875
+	Student response: 0.0836974657466
+	For A =
+[[ 2.628  1.487  4.484  1.531  4.63 ]
+ [ 2.979  0.258  3.113  0.572  2.774]
+ [ 0.197  4.351  3.273  3.65   3.018]
+ [ 0.009  3.228  2.79   3.719  0.168]
+ [ 4.3    0.662  3.959  3.637  0.309]],
+
+b =
+[ 4.377  1.018  3.478  2.524  2.647]
+
+Incorrect optimizer
+	Correct response: [ 0.     0.     0.     0.058  0.027  0.     0.051  0.     0.202  0.431]
+	Student response: [-0.065  0.026 -0.09   0.156  0.149 -0.036 -0.019  0.065  0.117  0.32 ]
+Incorrect optimial value
+	Correct response: 0.768493220526
+	Student response: 0.623181726513
+	For A =
+[[ 2.608  1.406  0.462  3.427  4.041  4.481  0.216  0.458  0.4    4.285]
+ [ 4.05   1.776  2.203  3.926  3.587  1.371  0.323  0.066  3.592  0.324]
+ [ 4.194  2.969  0.715  4.659  1.813  0.623  0.17   2.244  1.898  3.314]
+ [ 4.349  3.163  1.147  4.441  3.4    4.559  4.778  4.671  0.295  2.938]
+ [ 0.316  0.677  0.905  3.08   4.698  0.647  4.424  2.893  4.274  2.565]],
+
+b =
+[ 2.246  1.206  2.14   1.918  2.497]
+
+Score += 1
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (15 points):
+IOError: [Errno 2] No such file or directory: 'ForestData.npy'
+
+Total score: 21/40 = 52.5%
+
+--------------------------------------------------------------------------------
+
+01/17/17 12:20
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (15 points):
+Score += 15
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+
+
+Comments:
+	Great job!!
+
+--------------------------------------------------------------------------------
+
+01/18/17 17:06
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (15 points):
+Score += 15
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+
+--------------------------------------------------------------------------------
+
+01/19/17 09:15
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (15 points):
+Score += 15
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+
+--------------------------------------------------------------------------------
+

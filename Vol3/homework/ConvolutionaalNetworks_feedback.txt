@@ -1,0 +1,18 @@
+03/17/18 22:24
+
+Build CNN as in reading (4 points):
+Score += 4
+
+Experiment with different parameters and compare results ((i.e. use words) (4 points):
+Score += 4
+
+Code quality (2 points):
+Label print statements
+Score += 1
+
+Total score: 9/10 = 90.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

@@ -1,0 +1,5 @@
+Technically, this isn't my first time using vim.
+In fact, I've usedq it quite a bit recently.
+I think this now ualifies for multiple lines written to this file.
+I'm going to exit now.
+Bye bye!Technically

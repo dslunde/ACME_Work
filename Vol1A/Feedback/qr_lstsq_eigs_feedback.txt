@@ -1,0 +1,28 @@
+11/11/16 08:30
+
+Error loading Darren-Lund/qr_lstsq_eigs.py:
+	No module named qr_lstsq_eigs
+
+-------------------------------------------------------
+
+11/15/16 09:53
+
+Error loading Darren-Lund/qr_lstsq_eigs.py:
+	No module named qr_lstsq_eigs
+
+-------------------------------------------------------
+
+11/17/16 11:50
+
+Error loading Darren-Lund/qr_lstsq_eigs.py:
+	No module named qr_lstsq_eigs
+
+-------------------------------------------------------
+
+11/28/16 17:12
+
+Error loading Darren-Lund/qr_lstsq_eigs.py:
+	No module named qr_lstsq_eigs
+
+-------------------------------------------------------
+

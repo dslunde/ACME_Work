@@ -1,0 +1,26 @@
+10/06/17 11:30
+
+Prob1 (2 points):
+Score += 2
+
+Prob2 (2 points):
+Score += 2
+
+Prob3 (2 points):
+Score += 2
+
+Prob4 (2 points):
+Score += 2
+
+Prob5 (2 points):
+Score += 2
+
+Prob6 (2 points):
+Score += 2
+
+Total score: 12/12 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

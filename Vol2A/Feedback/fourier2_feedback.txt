@@ -1,0 +1,65 @@
+11/22/16
+
+Problem 1 (10 points):
+Score += 
+Comments: 
+
+Problem 3 (20 points):
+Score += 
+Comments:
+
+Problem 4 (10 points):
+Score += 
+Comments:
+
+Total score: 0/40 = 0%
+
+Comments:No lab found as Ipython Notebook
+
+12/3/16
+Problem 1 (10 points):
+Score += 
+Comments: 
+
+Problem 3 (20 points):
+Score += 
+Comments:
+
+Problem 4 (10 points):
+Score += 
+Comments:
+
+Total score: 0/40 = 0%
+Comments:No lab found as Ipython Notebook
+
+12/7/16
+Problem 1 (10 points):
+Score += 
+Comments: 
+
+Problem 3 (20 points):
+Score += 
+Comments:
+
+Problem 4 (10 points):
+Score += 
+Comments:
+
+Total score: 0/40 = 0%
+Comments:No lab found as Ipython Notebook
+
+12/15/16
+Problem 1 (10 points):
+Score += 10
+Comments: 
+
+Problem 3 (20 points):
+Score += 20
+Comments:
+
+Problem 4 (10 points):
+Score += 10
+Comments:
+
+Total score: 40/40 = 100%
+Comments:

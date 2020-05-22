@@ -1,0 +1,23 @@
+03/06/18 08:39
+
+Binomial Inequality (3 points):
+Score += 3
+
+Cramer Theorem for Lower Bound (3 points):
+Score += 3
+
+Random Forsests on Titanic (3 points):
+Analysis and comparison for single tree?
+Score += 2
+
+Random Forests on project (3 points):
+Same as previous
+Score += 2
+
+Code quality (2 points):
+Score += 2
+
+Total score: 12/14 = 85.71%
+
+-------------------------------------------------------------------------------
+

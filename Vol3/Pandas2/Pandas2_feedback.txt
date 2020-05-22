@@ -1,0 +1,28 @@
+10/26/17 23:57
+
+Data Set 1 (10 points):
+Score += 10
+
+Data Set 2 (10 points):
+("road" data): If you're trying to see correlations between two variables, use a scatter  or hexbin plot, not a bar chart.
+Score += 9
+
+Data Set 3 (10 points):
+("birthdeathrates" data): Both of your line plots have a categorical as the x-axis. Never plot lines against a categorical, because it implies ordering or progression. You want bar charts here, but you could also look at histograms.
+Score += 5
+
+Data Set 4 (10 points):
+("heart" data): neither of these plots are helpful or make sense. The line plot uses the index as the x-axis, which has nothing to do with the data. You're looking for a histogram there. The scatter plot should also probably be two histograms. There's a lot of other data that you could have explored here.
+Score += 5
+
+Data Set 5 (10 points):
+Score += 10
+
+Total score: 39/50 = 78.0%
+
+
+Comments:
+	In general you're a little trigger happy with line plots. Line plots ONLY make sense when there is some sort of ordering or progression (like time).
+
+-------------------------------------------------------------------------------
+

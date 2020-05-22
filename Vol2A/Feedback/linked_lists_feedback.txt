@@ -1,0 +1,732 @@
+09/30/16 15:23
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+AttributeError while removing 98: 'NoneType' object has no attribute 'prev'
+	Previous list:    [40, 90, 98, 5]
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+AttributeError while appendlefting 54: 'NoneType' object has no attribute 'value'
+	Previous deque:   []
+AttributeError while appendlefting 53: 'NoneType' object has no attribute 'value'
+	Previous deque:   [54]
+AttributeError while appendlefting 67: 'NoneType' object has no attribute 'value'
+	Previous deque:   [53, 54]
+AttributeError while appendlefting 29: 'NoneType' object has no attribute 'value'
+	Previous deque:   [67, 53, 54]
+AttributeError while appendlefting 11: 'NoneType' object has no attribute 'value'
+	Previous deque:   [29, 67, 53, 54]
+AttributeError while appendlefting 6: 'NoneType' object has no attribute 'value'
+	Previous deque:   [11, 29, 67, 53, 54]
+AttributeError while appendlefting 32: 'NoneType' object has no attribute 'value'
+	Previous deque:   [6, 11, 29, 67, 53, 54]
+AttributeError while appendlefting 35: 'NoneType' object has no attribute 'value'
+	Previous deque:   [32, 6, 11, 29, 67, 53, 54]
+AttributeError while appendlefting 27: 'NoneType' object has no attribute 'value'
+	Previous deque:   [35, 32, 6, 11, 29, 67, 53, 54]
+Score += 10
+
+Problem 7 (10 points):
+prob7() failed
+	Original file:
+melanoma
+straightforward
+outbound
+faecal
+mythological
+inhibitions
+raved
+stimulate
+pontiffs
+hangglide
+	Correct response: 
+hangglide
+pontiffs
+stimulate
+raved
+inhibitions
+mythological
+faecal
+outbound
+straightforward
+melanoma
+	Student response: 
+
+hangglide
+pontiffs
+stimulate
+raved
+inhibitions
+mythological
+faecal
+outbound
+straightforward
+melanoma
+Score += 0
+
+Total score: 50/60 = 83.33%
+
+
+Comments:
+	Good!
+
+-------------------------------------------------------
+
+10/07/16 12:03
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+AttributeError while removing 90: 'NoneType' object has no attribute 'prev'
+	Previous list:    [71, 53, 90, 47]
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+AttributeError while appendlefting 32: 'NoneType' object has no attribute 'value'
+	Previous deque:   []
+AttributeError while appendlefting 62: 'NoneType' object has no attribute 'value'
+	Previous deque:   [32]
+AttributeError while appendlefting 33: 'NoneType' object has no attribute 'value'
+	Previous deque:   [62, 32]
+AttributeError while appendlefting 70: 'NoneType' object has no attribute 'value'
+	Previous deque:   [33, 62, 32]
+AttributeError while appendlefting 98: 'NoneType' object has no attribute 'value'
+	Previous deque:   [70, 33, 62, 32]
+AttributeError while appendlefting 53: 'NoneType' object has no attribute 'value'
+	Previous deque:   [98, 70, 33, 62, 32]
+AttributeError while appendlefting 47: 'NoneType' object has no attribute 'value'
+	Previous deque:   [53, 98, 70, 33, 62, 32]
+AttributeError while appendlefting 16: 'NoneType' object has no attribute 'value'
+	Previous deque:   [47, 53, 98, 70, 33, 62, 32]
+Score += 10
+
+Problem 7 (10 points):
+prob7() failed
+	Original file:
+confidants
+belligerent
+roughens
+desecrate
+formalisations
+dioxin
+thundery
+nu
+choose
+correlated
+	Correct response: 
+correlated
+choose
+nu
+thundery
+dioxin
+formalisations
+desecrate
+roughens
+belligerent
+confidants
+	Student response: 
+
+correlated
+choose
+nu
+thundery
+dioxin
+formalisations
+desecrate
+roughens
+belligerent
+confidants
+Score += 0
+
+Total score: 50/60 = 83.33%
+
+
+Comments:
+	good
+
+-------------------------------------------------------
+
+10/12/16 11:05
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+AttributeError while removing 70: 'NoneType' object has no attribute 'prev'
+	Previous list:    [65, 62, 70, 72]
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+AttributeError while appendlefting 14: 'NoneType' object has no attribute 'value'
+	Previous deque:   []
+AttributeError while appendlefting 59: 'NoneType' object has no attribute 'value'
+	Previous deque:   [14]
+AttributeError while appendlefting 18: 'NoneType' object has no attribute 'value'
+	Previous deque:   [59, 14]
+AttributeError while appendlefting 43: 'NoneType' object has no attribute 'value'
+	Previous deque:   [18, 59, 14]
+AttributeError while appendlefting 89: 'NoneType' object has no attribute 'value'
+	Previous deque:   [43, 18, 59, 14]
+AttributeError while appendlefting 32: 'NoneType' object has no attribute 'value'
+	Previous deque:   [89, 43, 18, 59, 14]
+Score += 10
+
+Problem 7 (10 points):
+prob7() failed
+	Original file:
+frictional
+profits
+development
+undressed
+purr
+garments
+assimilated
+tramp
+signed
+acuity
+	Correct response: 
+acuity
+signed
+tramp
+assimilated
+garments
+purr
+undressed
+development
+profits
+frictional
+	Student response: 
+
+acuity
+signed
+tramp
+assimilated
+garments
+purr
+undressed
+development
+profits
+frictional
+Score += 0
+
+Total score: 50/60 = 83.33%
+
+
+Comments:
+	good
+
+-------------------------------------------------------
+
+10/14/16 13:32
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+AttributeError while removing 80: 'NoneType' object has no attribute 'prev'
+	Previous list:    [22, 36, 80, 47]
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+AttributeError while appendlefting 76: 'NoneType' object has no attribute 'value'
+	Previous deque:   []
+AttributeError while appendlefting 42: 'NoneType' object has no attribute 'value'
+	Previous deque:   [76]
+AttributeError while appendlefting 15: 'NoneType' object has no attribute 'value'
+	Previous deque:   [42, 76]
+AttributeError while appendlefting 9: 'NoneType' object has no attribute 'value'
+	Previous deque:   [15, 42, 76]
+AttributeError while appendlefting 93: 'NoneType' object has no attribute 'value'
+	Previous deque:   [9, 15, 42, 76]
+AttributeError while appendlefting 98: 'NoneType' object has no attribute 'value'
+	Previous deque:   [93, 9, 15, 42, 76]
+AttributeError while appendlefting 47: 'NoneType' object has no attribute 'value'
+	Previous deque:   [98, 93, 9, 15, 42, 76]
+AttributeError while appendlefting 31: 'NoneType' object has no attribute 'value'
+	Previous deque:   [47, 98, 93, 9, 15, 42, 76]
+AttributeError while appendlefting 74: 'NoneType' object has no attribute 'value'
+	Previous deque:   [31, 47, 98, 93, 9, 15, 42, 76]
+Score += 10
+
+Problem 7 (10 points):
+prob7() failed
+	Original file:
+registers
+bilharzia
+separatist
+robe
+uplift
+commandant
+sloppily
+grandee
+tones
+contexts
+	Correct response: 
+contexts
+tones
+grandee
+sloppily
+commandant
+uplift
+robe
+separatist
+bilharzia
+registers
+	Student response: 
+
+contexts
+tones
+grandee
+sloppily
+commandant
+uplift
+robe
+separatist
+bilharzia
+registers
+Score += 0
+
+Total score: 50/60 = 83.33%
+
+
+Comments:
+	Good!
+
+-------------------------------------------------------
+
+10/14/16 13:40
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+AttributeError while removing 15: 'NoneType' object has no attribute 'prev'
+	Previous list:    [87, 75, 15, 20]
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+AttributeError while appendlefting 54: 'NoneType' object has no attribute 'value'
+	Previous deque:   []
+AttributeError while appendlefting 85: 'NoneType' object has no attribute 'value'
+	Previous deque:   [54]
+AttributeError while appendlefting 41: 'NoneType' object has no attribute 'value'
+	Previous deque:   [85, 54]
+AttributeError while appendlefting 28: 'NoneType' object has no attribute 'value'
+	Previous deque:   [41, 85, 54]
+AttributeError while appendlefting 23: 'NoneType' object has no attribute 'value'
+	Previous deque:   [28, 41, 85, 54]
+AttributeError while appendlefting 37: 'NoneType' object has no attribute 'value'
+	Previous deque:   [23, 28, 41, 85, 54]
+Score += 10
+
+Problem 7 (10 points):
+prob7() failed
+	Original file:
+homecomings
+pleat
+reflect
+nailbiting
+assents
+cattery
+levelled
+carding
+excessively
+excel
+	Correct response: 
+excel
+excessively
+carding
+levelled
+cattery
+assents
+nailbiting
+reflect
+pleat
+homecomings
+	Student response: 
+
+excel
+excessively
+carding
+levelled
+cattery
+assents
+nailbiting
+reflect
+pleat
+homecomings
+Score += 0
+
+Total score: 50/60 = 83.33%
+
+
+Comments:
+	Good!
+
+-------------------------------------------------------
+
+10/17/16 13:59
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+AttributeError while appendlefting 63: 'NoneType' object has no attribute 'value'
+	Previous deque:   []
+AttributeError while appendlefting 49: 'NoneType' object has no attribute 'value'
+	Previous deque:   [63]
+AttributeError while appendlefting 56: 'NoneType' object has no attribute 'value'
+	Previous deque:   [49, 63]
+AttributeError while appendlefting 2: 'NoneType' object has no attribute 'value'
+	Previous deque:   [56, 49, 63]
+AttributeError while appendlefting 42: 'NoneType' object has no attribute 'value'
+	Previous deque:   [2, 56, 49, 63]
+AttributeError while appendlefting 51: 'NoneType' object has no attribute 'value'
+	Previous deque:   [42, 2, 56, 49, 63]
+AttributeError while appendlefting 58: 'NoneType' object has no attribute 'value'
+	Previous deque:   [51, 42, 2, 56, 49, 63]
+AttributeError while appendlefting 23: 'NoneType' object has no attribute 'value'
+	Previous deque:   [58, 51, 42, 2, 56, 49, 63]
+AttributeError while appendlefting 73: 'NoneType' object has no attribute 'value'
+	Previous deque:   [23, 58, 51, 42, 2, 56, 49, 63]
+Score += 10
+
+Problem 7 (10 points):
+prob7() failed
+	Original file:
+indistinguishably
+apples
+tiered
+grannies
+cleaver
+immersing
+misty
+clucked
+basketful
+rhino
+	Correct response: 
+rhino
+basketful
+clucked
+misty
+immersing
+cleaver
+grannies
+tiered
+apples
+indistinguishably
+	Student response: 
+
+rhino
+basketful
+clucked
+misty
+immersing
+cleaver
+grannies
+tiered
+apples
+indistinguishably
+Score += 0
+
+Total score: 50/60 = 83.33%
+
+
+Comments:
+	if you need help go to office hours!
+
+-------------------------------------------------------
+
+10/20/16 09:19
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+AttributeError while appendlefting 11: 'NoneType' object has no attribute 'value'
+	Previous deque:   []
+AttributeError while appendlefting 47: 'NoneType' object has no attribute 'value'
+	Previous deque:   [11]
+AttributeError while appendlefting 34: 'NoneType' object has no attribute 'value'
+	Previous deque:   [47, 11]
+AttributeError while appendlefting 27: 'NoneType' object has no attribute 'value'
+	Previous deque:   [34, 47, 11]
+AttributeError while appendlefting 64: 'NoneType' object has no attribute 'value'
+	Previous deque:   [27, 34, 47, 11]
+AttributeError while appendlefting 92: 'NoneType' object has no attribute 'value'
+	Previous deque:   [64, 27, 34, 47, 11]
+AttributeError while appendlefting 17: 'NoneType' object has no attribute 'value'
+	Previous deque:   [92, 64, 27, 34, 47, 11]
+AttributeError while appendlefting 68: 'NoneType' object has no attribute 'value'
+	Previous deque:   [17, 92, 64, 27, 34, 47, 11]
+AttributeError while appendlefting 23: 'NoneType' object has no attribute 'value'
+	Previous deque:   [68, 17, 92, 64, 27, 34, 47, 11]
+Score += 10
+
+Problem 7 (10 points):
+prob7() failed
+	Original file:
+prophetically
+compassionately
+resubmits
+dormancy
+embryology
+swat
+mince
+bedrock
+cataclysmic
+certainty
+	Correct response: 
+certainty
+cataclysmic
+bedrock
+mince
+swat
+embryology
+dormancy
+resubmits
+compassionately
+prophetically
+	Student response: 
+
+certainty
+cataclysmic
+bedrock
+mince
+swat
+embryology
+dormancy
+resubmits
+compassionately
+prophetically
+Score += 0
+
+Total score: 50/60 = 83.33%
+
+-------------------------------------------------------
+
+10/20/16 09:22
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+AttributeError while appendlefting 13: 'NoneType' object has no attribute 'value'
+	Previous deque:   []
+AttributeError while appendlefting 35: 'NoneType' object has no attribute 'value'
+	Previous deque:   [13]
+AttributeError while appendlefting 69: 'NoneType' object has no attribute 'value'
+	Previous deque:   [35, 13]
+AttributeError while appendlefting 93: 'NoneType' object has no attribute 'value'
+	Previous deque:   [69, 35, 13]
+AttributeError while appendlefting 90: 'NoneType' object has no attribute 'value'
+	Previous deque:   [93, 69, 35, 13]
+Score += 10
+
+Problem 7 (10 points):
+prob7() failed
+	Original file:
+scandalously
+incentives
+breaking
+sliders
+injunction
+abele
+crookedness
+berry
+conker
+notching
+	Correct response: 
+notching
+conker
+berry
+crookedness
+abele
+injunction
+sliders
+breaking
+incentives
+scandalously
+	Student response: 
+
+notching
+conker
+berry
+crookedness
+abele
+injunction
+sliders
+breaking
+incentives
+scandalously
+Score += 0
+
+Total score: 50/60 = 83.33%
+
+-------------------------------------------------------
+
+11/04/16 17:20
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+AttributeError while removing 72: 'NoneType' object has no attribute 'prev'
+	Previous list:    [10, 8, 72, 12]
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+AttributeError while appendlefting 40: 'NoneType' object has no attribute 'value'
+	Previous deque:   []
+AttributeError while appendlefting 21: 'NoneType' object has no attribute 'value'
+	Previous deque:   [40]
+AttributeError while appendlefting 30: 'NoneType' object has no attribute 'value'
+	Previous deque:   [21, 40]
+AttributeError while appendlefting 94: 'NoneType' object has no attribute 'value'
+	Previous deque:   [30, 21, 40]
+AttributeError while appendlefting 85: 'NoneType' object has no attribute 'value'
+	Previous deque:   [94, 30, 21, 40]
+AttributeError while appendlefting 75: 'NoneType' object has no attribute 'value'
+	Previous deque:   [85, 94, 30, 21, 40]
+AttributeError while appendlefting 45: 'NoneType' object has no attribute 'value'
+	Previous deque:   [75, 85, 94, 30, 21, 40]
+AttributeError while appendlefting 76: 'NoneType' object has no attribute 'value'
+	Previous deque:   [45, 75, 85, 94, 30, 21, 40]
+Score += 10
+
+Problem 7 (10 points):
+prob7() failed
+	Original file:
+denounce
+tickler
+spittle
+inordinately
+anaerobically
+orimulsion
+auditioning
+betroths
+items
+grammarians
+	Correct response: 
+grammarians
+items
+betroths
+auditioning
+orimulsion
+anaerobically
+inordinately
+spittle
+tickler
+denounce
+	Student response: 
+
+grammarians
+items
+betroths
+auditioning
+orimulsion
+anaerobically
+inordinately
+spittle
+tickler
+denounce
+Score += 0
+
+Total score: 60/60 = 83.33%
+
+-------------------------------------------------------
+

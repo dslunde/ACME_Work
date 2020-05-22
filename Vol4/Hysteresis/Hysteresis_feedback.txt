@@ -1,0 +1,55 @@
+10/13/17 14:42
+
+prob1 (3 points):
+Score += 0
+
+prob2 (3 points):
+Score += 0
+
+prob3 (4 points):
+Score += 0
+
+Total score: 0/10 = 0.0%
+
+
+Comments:
+	no code
+
+-------------------------------------------------------------------------------
+
+10/20/17 11:05
+
+prob1 (3 points):
+Score += 0
+
+prob2 (3 points):
+Score += 0
+
+prob3 (4 points):
+Score += 0
+
+Total score: 0/10 = 0.0%
+
+
+Comments:
+	no code
+
+-------------------------------------------------------------------------------
+
+10/24/17 16:52
+
+prob1 (3 points):
+Score += 3
+
+prob2 (3 points):
+Score += 3
+
+prob3 (4 points):
+Score += 4
+
+Total score: 10/10 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

@@ -1,0 +1,71 @@
+10/26/16 13:38
+
+Error loading Darren-Lund/bfs_kbacon.py:
+	No module named bfs_kbacon
+
+-------------------------------------------------------
+
+10/31/16 22:31
+
+Error loading Darren-Lund/bfs_kbacon.py:
+	No module named bfs_kbacon
+
+-------------------------------------------------------
+
+11/04/16 13:15
+
+Error loading Darren-Lund/bfs_kbacon.py:
+	No module named bfs_kbacon
+
+-------------------------------------------------------
+
+11/08/16 22:43
+
+Problem 1 (5 points):	
+nodes need to be sorted	
+nodes need to be sorted
+Score += 2
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 4 (15 points):
+Score += 15
+
+BaconSolver (20 points):
+Score += 20
+
+Total score: 47/50 = 94.0%
+
+Great job!
+
+
+Comments:
+	Good!
+
+-------------------------------------------------------
+
+11/17/16 07:47
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 4 (15 points):
+Score += 15
+
+BaconSolver (20 points):
+Score += 20
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+
+Comments:
+	Awesome!
+
+-------------------------------------------------------
+

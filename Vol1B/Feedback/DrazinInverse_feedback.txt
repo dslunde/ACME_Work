@@ -1,0 +1,61 @@
+04/17/17 12:21
+
+Error loading drazin.py:
+	No module named drazin
+
+--------------------------------------------------------------------------------
+
+04/17/17 18:41
+
+Error loading drazin.py:
+	No module named drazin
+
+--------------------------------------------------------------------------------
+
+04/17/17 19:30
+
+Error loading drazin.py:
+	No module named drazin
+
+--------------------------------------------------------------------------------
+
+04/17/17 23:08
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 5 (15 points):
+Score += 15
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+
+--------------------------------------------------------------------------------
+
+04/19/17 11:25
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 5 (15 points):
+Score += 15
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+
+--------------------------------------------------------------------------------
+

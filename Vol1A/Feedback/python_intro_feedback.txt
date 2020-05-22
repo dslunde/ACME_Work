@@ -1,0 +1,114 @@
+09/06/16 10:06
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+AttributeError: 'module' object has no attribute 'backward'
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (10 points):
+Score += 10
+
+Problem 7 (5 points):
+Score += 5
+
+Total score: 30/40 = 75.0%
+
+-------------------------------------------------------
+
+09/06/16 20:55
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (10 points):
+Score += 10
+
+Problem 7 (5 points):
+Score += 5
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+
+
+Comments:
+	Perfect!
+
+-------------------------------------------------------
+
+09/10/16 14:41
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (10 points):
+Score += 10
+
+Problem 7 (5 points):
+Score += 5
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+
+
+Comments:
+	Awesome
+
+-------------------------------------------------------
+
+09/22/16 17:24
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (5 points):
+Score += 5
+
+Problem 6 (10 points):
+Score += 10
+
+Problem 7 (5 points):
+Score += 5
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+
+
+Comments:
+	Great job!
+
+-------------------------------------------------------
+

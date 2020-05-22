@@ -1,0 +1,45 @@
+03/04/17 08:48
+
+Error loading montecarlo_sampling.py:
+	No module named montecarlo_sampling
+
+--------------------------------------------------------------------------------
+
+03/06/17 17:59
+
+Error loading montecarlo_sampling.py:
+	No module named montecarlo_sampling
+
+--------------------------------------------------------------------------------
+
+03/07/17 09:31
+
+Error loading montecarlo_sampling.py:
+	No module named montecarlo_sampling
+
+--------------------------------------------------------------------------------
+
+03/21/17 17:05
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+
+
+Comments:
+	NICE!
+
+--------------------------------------------------------------------------------
+

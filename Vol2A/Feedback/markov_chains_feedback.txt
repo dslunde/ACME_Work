@@ -1,0 +1,48 @@
+10/31/16 22:08
+
+Error loading Darren-Lund/markov_chains.py:
+	No module named markov_chains
+
+-------------------------------------------------------
+
+11/04/16 13:54
+
+Error loading Darren-Lund/markov_chains.py:
+	No module named markov_chains
+
+-------------------------------------------------------
+
+11/08/16 22:57
+
+Error loading Darren-Lund/markov_chains.py:
+	No module named markov_chains
+
+-------------------------------------------------------
+
+11/17/16 08:31
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (10 points):
+Score += 10
+
+SentenceGenerator class (15 points):
+Score += 15
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+
+
+Comments:
+	AWesome!
+
+-------------------------------------------------------
+

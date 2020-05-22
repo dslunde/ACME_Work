@@ -1,0 +1,13 @@
+12/06/17 23:24
+
+Problem 1 (4 points):
+Score += 4
+
+Problem 2 (4 points):
+I think you used 105 instead of 10^5 samples in your plot.  Also, your true distribution should be a pmf and thus plotted as a histogram.
+Score += 2
+
+Total score: 6/8 = 75.0%
+
+-------------------------------------------------------------------------------
+

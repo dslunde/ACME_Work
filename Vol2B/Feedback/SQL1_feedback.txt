@@ -1,0 +1,97 @@
+03/16/17 08:49
+
+Error loading sql1.py:
+	No module named sql1
+
+--------------------------------------------------------------------------------
+
+03/16/17 08:52
+
+Error loading sql1.py:
+	No module named sql1
+
+--------------------------------------------------------------------------------
+
+03/16/17 12:24
+
+Error loading sql1.py:
+	No module named sql1
+
+--------------------------------------------------------------------------------
+
+03/20/17 09:06
+
+Error loading sql1.py:
+	No module named sql1
+
+--------------------------------------------------------------------------------
+
+03/22/17 11:02
+
+Error loading sql1.py:
+	No module named sql1
+
+--------------------------------------------------------------------------------
+
+03/23/17 09:35
+
+Problem 1 (5 points):
+OperationalError: table MajorInfo already exists
+
+Problem 2 (10 points):
+OperationalError: table ICD already exists
+
+Problem 3 (10 points):
+Incorrect first 5 rows of table 'MajorInfo'
+	Correct response:
+   MajorID MajorName
+0        1      Math
+1        2   Science
+2        3   Writing
+3        4       Art
+	Student response:
+   ID     Name
+0   1     Math
+1   2  Science
+2   3  Writing
+3   4      Art
+Incorrect first 5 rows of table 'CourseInfo'
+	Correct response:
+   CourseID CourseName
+0         1   Calculus
+1         2    English
+2         3    Pottery
+3         4    History
+	Student response:
+   ClassID      Name
+0        1  Calculus
+1        2   English
+2        3   Pottery
+3        4   History
+Score += 6
+
+Problem 4 (15 points):
+Score += 15
+
+Total score: 21/40 = 52.5%
+
+--------------------------------------------------------------------------------
+
+03/31/17 11:11
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+OperationalError: table ICD already exists
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (15 points):
+Score += 15
+
+Total score: 30/40 = 75.0%
+
+--------------------------------------------------------------------------------
+

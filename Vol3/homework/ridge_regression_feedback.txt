@@ -1,0 +1,13 @@
+12/22/17 19:18
+
+Written (5 points):
+Score += 0
+
+Code up ridge regression and compare coefficients  (3 points):
+No submission
+Score += 0
+
+Total score: 0/8 = 0.0%
+
+-------------------------------------------------------------------------------
+

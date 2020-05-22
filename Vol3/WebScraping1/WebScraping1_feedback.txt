@@ -1,0 +1,113 @@
+10/05/17 16:26
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+prob3() failed
+Score += 0
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+TypeError: unhashable type: 'list'
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 35/50 = 70.0%
+
+-------------------------------------------------------------------------------
+
+10/10/17 18:23
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+IndexError: list index out of range
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Can you make the labels readable? (Hint: plt.tight_layout(), maybe use a horizontal bar chart with plt.barh())
+Score += 8
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 43/50 = 86.0%
+
+-------------------------------------------------------------------------------
+
+10/11/17 15:45
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+IndexError: list index out of range
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+CVan't read the labels at all, and the figure is so large that I can't even see my own typing right now! Try using a horizontal bar chart and stacking the subplots by column, then use plt.tight_layout().
+Score += 7
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 42/50 = 84.0%
+
+-------------------------------------------------------------------------------
+
+10/12/17 17:30
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+This returned the empty string. There's a much simpler solution than what you're trying.
+Score += 3
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 48/50 = 96.0%
+
+Great job!
+
+-------------------------------------------------------------------------------

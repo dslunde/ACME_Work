@@ -1,0 +1,16 @@
+04/26/18 19:02
+
+Code up EM for GMMs (4 points):
+Score += 4
+
+Compare GMM to K-Means (4 points):
+Your algorithm doesn't appear to be working correctly.  You also need to compare to K-means
+Score += 1
+
+Code quality (2 points):
+Score += 2
+
+Total score: 7/10 = 70.0%
+
+-------------------------------------------------------------------------------
+

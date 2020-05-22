@@ -1,0 +1,17 @@
+02/10/18 19:31
+
+Problem 1 (2 points):
+Score += 2
+
+Problem 2 (4 points):
+Score += 4
+
+Problem 3 (4 points):
+Score += 4
+
+Total score: 10/10 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

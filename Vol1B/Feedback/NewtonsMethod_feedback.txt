@@ -1,0 +1,81 @@
+02/01/17 23:56
+
+Error loading newtons_method.py:
+	No module named newtons_method
+
+--------------------------------------------------------------------------------
+
+02/03/17 18:28
+
+Problem 2.1 (5 points):
+Score += 5
+
+Problem 2.2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+AttributeError: 'TestDriver' object has no attribute '_evalTest'
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 7 (10 points):
+NotImplementedError: Problem 7 Incomplete
+
+Total score: 30/50 = 60.0%
+
+--------------------------------------------------------------------------------
+
+02/06/17 23:19
+
+Problem 2.1 (5 points):
+Score += 5
+
+Problem 2.2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+AttributeError: 'TestDriver' object has no attribute '_evalTest'
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 7 (10 points):
+just plotted a solid color
+Score += 0
+
+Total score: 30/50 = 60.0%
+
+--------------------------------------------------------------------------------
+
+02/09/17 09:50
+
+Problem 2.1 (5 points):
+Score += 5
+
+Problem 2.2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+AttributeError: 'TestDriver' object has no attribute '_evalTest'
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 7 (10 points):
+I only saw a solid red plot come up
+Score += 0
+
+Total score: 30/50 = 60.0%
+
+--------------------------------------------------------------------------------
+

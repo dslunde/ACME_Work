@@ -1,0 +1,97 @@
+02/03/17 12:29
+
+Problem 1 (5 points):
+TypeError: cannot concatenate 'str' and 'int' objects
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+ValueError: Incorrect fit parameters (function returned None)
+
+Total score: 25/40 = 62.5%
+
+--------------------------------------------------------------------------------
+
+02/07/17 14:24
+
+Problem 1 (5 points):
+Label which method is which
+Score += 3
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Incorrect fit parameters
+	Correct response: [ 0.098  0.398]
+	Student response: [ 0.099  0.397]
+Score += 5
+
+Total score: 33/40 = 82.5%
+
+--------------------------------------------------------------------------------
+
+02/08/17 10:57
+
+Problem 1 (5 points):
+Which methods were used?
+Score += 3
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Total score: 38/40 = 95.0%
+
+Great job!
+
+--------------------------------------------------------------------------------
+
+02/09/17 09:19
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (10 points):
+Score += 10
+
+Total score: 40/40 = 100.0%
+
+Excellent!
+
+
+Comments:
+	Awesome!
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,16 @@
+03/17/18 20:36
+
+Neural net with softmax + compare to XGBoost (4 points):
+Score += 4
+
+Neural net with ReLU + compare to XGBoost (4 points):
+Use words to compare your classifiers, instead of having to parse through printouts
+Score += 3
+
+Code quality (2 points):
+Score += 1
+
+Total score: 8/10 = 80.0%
+
+-------------------------------------------------------------------------------
+

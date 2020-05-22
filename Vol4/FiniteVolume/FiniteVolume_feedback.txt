@@ -1,0 +1,59 @@
+12/08/17 11:57
+
+Prob1 (5 points):
+Score += 0
+
+Prob2 (5 points):
+Score += 0
+
+Total score: 0/10 = 0.0%
+
+
+Comments:
+	no code
+
+-------------------------------------------------------------------------------
+
+12/12/17 16:15
+
+Prob1 (5 points):
+Score += 5
+
+Prob2 (5 points):
+Fraph the minmod method
+Score += 2
+
+Total score: 7/10 = 70.0%
+
+-------------------------------------------------------------------------------
+
+01/25/18 13:45
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+You have off-by-one errors in your calculation of the m_i's and m_i-1's. Double check against (12.11) in the lab manual.
+Score += 3
+
+Total score: 8/10 = 80.0%
+
+
+Comments:
+	Keep going!
+
+-------------------------------------------------------------------------------
+
+01/27/18 13:19
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Same as before
+Score += 3
+
+Total score: 8/10 = 80.0%
+
+-------------------------------------------------------------------------------
+

@@ -1,0 +1,13 @@
+12/20/17 14:13
+
+written (12 points):
+Score += 10
+
+10.10 (3 points):
+Your SVD solver is getting weird results for beta (it should be the same).  Otherwise, everything looks good.
+Score += 2
+
+Total score: 12/15 = 80.0%
+
+-------------------------------------------------------------------------------
+

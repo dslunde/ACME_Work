@@ -1,0 +1,32 @@
+11/10/17 21:00
+
+Problem 1 (Iris) (5 points):
+Score += 5
+
+Problem 1 (Poisons) (5 points):
+What about question 2?
+Score += 2
+
+Problem 1 (Diamonds) (5 points):
+Score += 5
+
+Problem 2 (15 points):
+Score += 15
+
+Problem 3 (NPK) (5 points):
+Score += 5
+
+Problem 3 (Swiss) (5 points):
+These tables are way to big to pull information out of them. Visualization?
+Score += 3
+
+Problem 3 (choice) (5 points):
+Score += 0
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 40/50 = 80.0%
+
+-------------------------------------------------------------------------------
+

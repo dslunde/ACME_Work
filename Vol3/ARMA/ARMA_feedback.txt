@@ -1,0 +1,22 @@
+04/12/18 23:05
+
+Problem 1 (15 points):
+Score += 15
+
+Problem 2 (15 points):
+Score += 15
+
+Problem 4 (15 points):
+Something is a little funky about time series C.
+Score += 12
+
+Code Quality (5 points):
+Really should write a function for the last part of Problem 4.
+Score += 4
+
+Total score: 46/50 = 92.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

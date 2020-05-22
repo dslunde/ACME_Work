@@ -1,0 +1,39 @@
+10/12/16 11:48
+
+Error loading Darren-Lund/kdtrees.py:
+	No module named kdtrees
+
+-------------------------------------------------------
+
+10/14/16 14:38
+
+Error loading Darren-Lund/kdtrees.py:
+	No module named kdtrees
+
+-------------------------------------------------------
+
+10/17/16 14:00
+
+Error loading Darren-Lund/kdtrees.py:
+	No module named kdtrees
+
+-------------------------------------------------------
+
+10/21/16 00:40
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problems 4 and 5 (30 points):
+TypeError: ufunc 'isinf' not supported for the input types, and the inputs could not be safely coerced to any supported types according to the casting rule ''safe''
+
+Problem 6 (10 points):
+Score += 10
+
+Total score: 20/50 = 40.0%
+
+-------------------------------------------------------
+

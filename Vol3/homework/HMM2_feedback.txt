@@ -1,0 +1,25 @@
+04/24/18 22:40
+
+Written (4 points):
+Score += 0
+
+_delta/_gamma/_fit methods (3 points):
+Score += 0
+
+Declaration of Independence (plot, interpret) (3 points):
+Score += 0
+
+War and Peace (plot, interpret) (3 points):
+Score += 0
+
+Code Quality (2 points):
+Score += 0
+
+Total score: 0/15 = 0.0%
+
+
+Comments:
+	No submission
+
+-------------------------------------------------------------------------------
+

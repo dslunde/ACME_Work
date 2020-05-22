@@ -1,0 +1,12 @@
+11/21/16
+Signal Class (15 points):
+Score += 15 
+Comments:Please make your plots inline using "%matplotlib inline".
+
+Problem 6 (15 points):
+Score += 15
+Comments:
+
+Total score: 30/30 = 100%
+
+Comments:Awesome!

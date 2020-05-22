@@ -1,0 +1,27 @@
+03/03/18 18:21
+
+Decision tree grid search on Titanic (3 points):
+Score += 3
+
+Decision tree grid search on final project (3 points):
+Score += 3
+
+Tree regressor grid search on Boston Housing (3 points):
+Score += 3
+
+Tree regressor grid search on final project (3 points):
+Score += 3
+
+Code Quality (comments, docstrings, labels on plots/prin t statements, etc) (2 points):
+Score += 2
+
+Total score: 14/14 = 100.0%
+
+Excellent!
+
+
+Comments:
+	Note that the scores you get for regressions are not accuracy measureses, but rather R^2 scores
+
+-------------------------------------------------------------------------------
+

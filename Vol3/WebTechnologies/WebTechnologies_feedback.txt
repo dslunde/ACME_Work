@@ -1,0 +1,50 @@
+09/21/17 17:35
+
+NotImplementedError while loading 'web_technologies.py': Problem 2 Incomplete
+
+-------------------------------------------------------------------------------
+
+09/26/17 20:03
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+AttributeError: 'TicTacToeEncoder' object has no attribute 'turn'
+
+Problems 3 and 4 (20 points):
+Score += 0
+
+Problems 5 and 6 (10 points):
+NotImplementedError: Problem 6 Incomplete
+
+Code Quality (5 points):
+Score += 0
+
+Total score: 5/50 = 10.0%
+
+-------------------------------------------------------------------------------
+
+09/28/17 16:22
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problems 3 and 4 (20 points):
+client doesn't print out final game board after a win, good otherwise.
+Score += 20
+
+Problems 5 and 6 (10 points):
+Histogram is waaaay off. Did you mix up your longitude and latitude values?
+Score += 5
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 45/50 = 90.0%
+
+-------------------------------------------------------------------------------
+

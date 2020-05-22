@@ -1,0 +1,27 @@
+01/17/18 19:50
+
+Problem 1 (1 points):
+Score += 1
+
+Problem 2 (1 points):
+Score += 1
+
+Problem 3 (2 points):
+Score += 2
+
+Problem 4 (3 points):
+Score += 3
+
+Problem 5 (3 points):
+Score += 3
+
+Code Quality (2 points):
+Need comments in code, especially in the long blocks.
+Score += 1
+
+Total score: 11/12 = 91.67%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

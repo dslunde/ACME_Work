@@ -1,0 +1,16 @@
+03/29/18 16:33
+
+Problem 1 (10 points):
+Why do you use negative covariance? I think you've done it right but you don't show that your function actually works.
+Score += 7
+
+Problems 2-4 (35 points):
+Score += 0
+
+Code Quality (5 points):
+Score += 0
+
+Total score: 7/50 = 14.0%
+
+-------------------------------------------------------------------------------
+

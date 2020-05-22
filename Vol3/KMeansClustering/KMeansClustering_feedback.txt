@@ -1,0 +1,38 @@
+03/06/18 08:02
+
+Problem 1 (15 points):
+Score += 0
+
+Problem 2 (15 points):
+Score += 0
+
+Problem 3 (15 points):
+Score += 0
+
+Code Quality (5 points):
+Score += 0
+
+Total score: 0/50 = 0.0%
+
+-------------------------------------------------------------------------------
+
+03/10/18 11:39
+
+Problem 1 (15 points):
+Score += 15
+
+Problem 2 (15 points):
+Score += 15
+
+Problem 3 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

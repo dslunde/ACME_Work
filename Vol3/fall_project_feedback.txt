@@ -1,0 +1,5 @@
+Some of the figures need a lot more explanation.  For example, it is not clear how someone can prevent a negative number of points. 
+
+Your discussion of your data cleaning was very thorough and methodical.  The narrative in the project made it easier to read.
+
+Make sure that your code doesn't run off of the page. The walkthrough of getting NC and Gz stats (In[14] through In[19]) could be generalized––you want to be able to do this process for any two teams.

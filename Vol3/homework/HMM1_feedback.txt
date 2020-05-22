@@ -1,0 +1,19 @@
+04/24/18 19:32
+
+Written problems (from Stamp notes) (5 points):
+Score += 0
+
+Forward/Backward passs (3 points):
+Score += 0
+
+Code quality (2 points):
+Score += 0
+
+Total score: 0/10 = 0.0%
+
+
+Comments:
+	Incomplete
+
+-------------------------------------------------------------------------------
+

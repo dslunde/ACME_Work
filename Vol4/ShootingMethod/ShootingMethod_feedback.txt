@@ -1,0 +1,33 @@
+09/22/17 13:10
+
+prob1 (3 points):
+Score += 3
+
+prob2 (3 points):
+Score += 3
+
+prob3 (4 points):
+Your  In find_t_cannon you need to update sol0 and sol1 using the [1,0] index, not [1,2]
+Score += 1
+
+Total score: 7/10 = 70.0%
+
+-------------------------------------------------------------------------------
+
+10/02/17 11:43
+
+prob1 (3 points):
+Score += 3
+
+prob2 (3 points):
+Score += 3
+
+prob3 (4 points):
+Score += 4
+
+Total score: 10/10 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

@@ -1,0 +1,50 @@
+04/03/17 22:19
+
+Error loading pagerank.py:
+	No module named pagerank
+
+--------------------------------------------------------------------------------
+
+04/04/17 13:07
+
+Error loading pagerank.py:
+	No module named pagerank
+
+--------------------------------------------------------------------------------
+
+04/04/17 16:13
+
+Error loading pagerank.py:
+	No module named pagerank
+
+--------------------------------------------------------------------------------
+
+04/04/17 20:09
+
+Error loading pagerank.py:
+	No module named pagerank
+
+--------------------------------------------------------------------------------
+
+04/05/17 11:21
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+incorrect steady state
+Score += 0
+
+Problem 5 (10 points):
+Score += 10
+
+Total score: 30/40 = 75.0%
+
+--------------------------------------------------------------------------------
+
